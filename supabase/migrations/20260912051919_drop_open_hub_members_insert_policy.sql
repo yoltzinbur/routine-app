@@ -1,0 +1,1 @@
+DROP POLICY rls_insert_members_auth ON hub_members;
